@@ -1,0 +1,3 @@
+# Ignorar archivos de datos en el repositorio
+*.csv
+*.docx
